@@ -255,9 +255,9 @@ button:focus {
 }
 
 .home-section {
-  position: relative;
+  position:relative;
   z-index: -1;
-  background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
+  background-image: var(--image-gradient) url(./Assets/home-bg.jpg);
   background-position: top center;
   background-repeat: no-repeat;
   padding-bottom: 30px !important;
@@ -281,12 +281,12 @@ button:focus {
 }
 
 .main-name {
-  color: #cd5ff8;
+  color: #ddff1a;
 }
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #be6adf !important;
+  color: #04f1aa !important;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {
